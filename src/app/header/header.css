@@ -1,0 +1,16 @@
+.navbar{
+    background-color: #3e2723 ;
+    
+}
+.nav-link{
+    color: #f5e6d3;
+}
+.btn-primary{
+    background-color: rgba(225, 145, 145, 0.825);
+    border-color:rgba(225, 145, 145, 0.825) ;
+}
+img{
+    width: 60px;
+    mix-blend-mode: multiply;
+  
+}
